@@ -30,7 +30,7 @@ Follow these steps to set up and run the Two-Wheeler Surveillance System:
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd traffic-surveillance
+    cd traffic_violation_detection_system
     ```
 
 3. **Install Dependencies:**
@@ -40,7 +40,7 @@ Follow these steps to set up and run the Two-Wheeler Surveillance System:
 
 4. **Run the Surveillance System:**
     ```bash
-    python main.py
+    python src/main.py
     ```
 
 ## Usage
