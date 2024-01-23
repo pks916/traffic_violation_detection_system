@@ -25,7 +25,7 @@ Follow these steps to set up and run the Two-Wheeler Surveillance System:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/pks916/traffic_surveillance_system.git
+    git clone https://github.com/pks916/traffic_violation_detection_system.git
     ```
 
 2. **Navigate to the Project Directory:**
