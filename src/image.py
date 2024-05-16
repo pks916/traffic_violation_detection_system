@@ -4,7 +4,7 @@ from ultralytics.utils.checks import check_imshow
 from ultralytics.utils.plotting import Annotator, colors
 from collections import defaultdict
 from utils import check_paths
-
+check_paths()
 # Load the model
 model = YOLO('models/best_helmet.pt')
 
